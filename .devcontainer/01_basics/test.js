@@ -1,0 +1,1 @@
+console.assertlog("gamma")
